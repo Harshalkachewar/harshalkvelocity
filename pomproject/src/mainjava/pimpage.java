@@ -21,7 +21,13 @@ public class pimpage extends basetest {
 		return txtpage.getText();
 		
 	}
-	
-	
+private void Syso() {
+         
 
 }
+		
+
+}
+	
+
+
